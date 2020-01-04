@@ -1,15 +1,3 @@
-# This is a custom hosts file with all the Manga sites
-
-# localhost
-127.0.0.1 local
-127.0.0.1 localhost
-127.0.0.1 localhost.localdomain
-255.255.255.255 broadcasthost
-::1 localhost
-fe80::1%lo0 localhost
-
-# Manga Domains
-
 0.0.0.0 01-fond-ecran.com/fond-ecran-manga-19.html
 0.0.0.0 01-fond-ecran.com/manga-19/
 0.0.0.0 2dcomplex.com
