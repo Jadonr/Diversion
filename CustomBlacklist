@@ -1,2 +1,28 @@
-tiktok.com
-
+############## Block Certain Programs from updating - BEGIN
+0.0.0.0 secure.flashfxp.com 
+0.0.0.0 promo.flashfxp.com 
+0.0.0.0 liveupdate.flashfxp.com
+0.0.0.0 flashfxp.com
+0.0.0.0    activation.cloud.techsmith.com
+0.0.0.0    oscount.techsmith.com
+0.0.0.0    updater.techsmith.com
+0.0.0.0    camtasiatudi.techsmith.com
+0.0.0.0    tsccloud.cloudapp.net
+0.0.0.0    assets.cloud.techsmith.com
+############## Block Certain Programs from updating - END
+############## Block TikTok - START
+0.0.0.0 tiktok.com
+0.0.0.0 v16a.tiktokcdn.com
+0.0.0.0 p16-tiktokcdn-com.akamaized.net
+0.0.0.0 log.tiktokv.com
+0.0.0.0 ib.tiktokv.com
+0.0.0.0 api-h2.tiktokv.com
+0.0.0.0 v16m.tiktokcdn.com
+0.0.0.0 api.tiktokv.com
+0.0.0.0 v19.tiktokcdn.com
+0.0.0.0 mon.musical.ly
+0.0.0.0 api2-16-h2.musical.ly
+0.0.0.0 api2.musical.ly
+0.0.0.0 log2.musical.ly
+0.0.0.0 api2-21-h2.musical.ly
+############## Block TikTok - END
